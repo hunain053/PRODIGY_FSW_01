@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.list{
+    display: flex;
+    gap:2rem;
+    list-style: none;
+    border:10px solid black;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 25px;
+    margin-bottom: 1rem;
+}
+
+.list li a{
+    text-decoration: none;
+    color:whitesmoke;
+}
+
+.list li a:hover{
+    color: red;
+}
