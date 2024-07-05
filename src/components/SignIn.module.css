@@ -51,3 +51,9 @@
   .createAccount a:hover {
     color: #23527c;
   }
+
+  .error{
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
